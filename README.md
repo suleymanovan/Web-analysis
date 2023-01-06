@@ -2,6 +2,8 @@
 Сквозной анализ эффективности рекламного источника
 "Сквозная аналитика для Салона красоты"
 
+Анализ представлен в файле Analysis_beauty_center.ipynb.
+
 Ссылка на отчет в Google таблице:
 https://docs.google.com/spreadsheets/d/1WlNFIAdGMel4tS_2JV_Qlpe3r2tiG6C6H4tQabjzLwE/edit?usp=sharing
 
